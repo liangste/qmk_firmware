@@ -21,4 +21,5 @@
     { R26, R18, R19, R05, R29, R30, R39, R24, R33, KC_NO  }, \
     { R34, R27, R28, R06, R37, R38, R46, R32, R42, KC_NO  }, \
     { R43, R35, R36, R14, R44, R45, R47, R41, R48, KC_NO  }, \
+    { KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO, KC_NO  }, \
 }
