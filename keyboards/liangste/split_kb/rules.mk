@@ -1,4 +1,3 @@
 DEFAULT_FOLDER = liangste/split_kb
 SERIAL_DRIVER = vendor
-SPLIT_KEYBOARD = yes
 BOOTLOADER = rp2040
